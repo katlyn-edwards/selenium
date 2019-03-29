@@ -70,7 +70,7 @@ const (
 	MultiplyKey   = string('\ue024')
 	AddKey        = string('\ue025')
 	SeparatorKey  = string('\ue026')
-	SubstractKey  = string('\ue027')
+	SubtractKey  = string('\ue027')
 	DecimalKey    = string('\ue028')
 	DivideKey     = string('\ue029')
 	F1Key         = string('\ue031')
